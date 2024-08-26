@@ -1,0 +1,5 @@
+# Ignore .meta files
+*.meta
+
+# Ignore obj directory
+obj/
